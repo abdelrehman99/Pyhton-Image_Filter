@@ -1,6 +1,6 @@
 # Pyhton-Image_Filter
 ### Overview : 
-This project is based on image enhacning in python where we can brighten, darken, increase contrast, decrease contrast, sharpen, blur an image with a nice GUI. 
+This project is based on image enhacning in python where we can brighten, darken, increase contrast, decrease contrast, sharpen, blur, remove noise, and fuse images based on wavelet transform algorthim an image with a nice GUI. 
 ### Prerequisites :
 - [Download python](https://www.python.org/downloads/)
 - [Download Pillow](https://pillow.readthedocs.io/en/stable/installation.html)
