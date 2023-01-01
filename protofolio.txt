@@ -1,0 +1,3 @@
+Time Complexity : 
+O(n)
+Where n is the size of rows of the wavelet of the image. 
